@@ -46,6 +46,7 @@ async function searchImage(){
     }
 }
 
+
 form1.addEventListener("submit" , (event) =>{
     event.preventDefault()
     page = 1 ;
